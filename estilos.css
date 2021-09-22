@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+    background-image: url(https://pbs.twimg.com/media/E8OfWq2WYAAzFjL.jpg); 
+    background-size: contain;   
+}
+h1{
+    padding: 10px;
+    border: solid 2px black;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 25px 400px;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    background-color: cornsilk;
+    border: solid 2px black;
+}
+#video{
+    text-align: center;
+}
+
+td,th{
+    border: 1px solid rgb(133, 20, 20);
+    text-align: center;
+}
